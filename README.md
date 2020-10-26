@@ -1,6 +1,6 @@
 # CSE 320: Programming Languages
 
-- These 5 programming languages implements the following algorithms:
+These 5 programming languages implements the following algorithms:
 
 1) Quicksort on an Array
 - For this problem, you will need to generate arrays of 1000 to 10000 3 or 4 digit integers. You should generate the array using the random() function in a C++ program. (try: "man random" at command line for reference on this)
